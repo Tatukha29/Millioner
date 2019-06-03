@@ -1,0 +1,25 @@
+.flex{
+	display: flex;
+
+}
+.question{
+	height: 100px;
+	background: purple;
+	width: auto;
+	font-size: 23px;
+	padding-top: 30px;
+	padding-left: 30px;
+	box-sizing: border-box;
+}
+.answer{
+	height: 50px;
+	width: 100px;
+	background: lightblue;
+	margin-right: 50px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 5px;
+	box-sizing: border-box;
+}

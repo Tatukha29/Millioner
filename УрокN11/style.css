@@ -1,0 +1,221 @@
+.block1{
+	height: 400px;
+	display: flex;
+	background: red;
+
+}
+.block2{
+height: 100px;
+width: auto;
+background: purple;
+font-size: 23px;
+
+}
+.block2 p{
+margin-left: 10px;
+margin-top: 10px;
+}
+.otv_a{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_b{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_c{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_d{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_a2{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_b2{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_c2{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_d2{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_a3{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_b3{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_c3{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_d3{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_a4{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_b4{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_c4{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.otv_d4{
+height: 50px;
+width: 100px;
+background: lightblue;
+margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 50px;
+
+}
+.flex{
+	display: flex;
+
+}
+.vopros2{
+	display: none
+}
+.vopros3{
+	display: none
+}
+.vopros4{
+	display: none
+}
+.box1{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	background: green;
+	border: 2px solid black;
+	margin-bottom: 5px;
+	margin-top: 10px;
+
+
+}
+.box2{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	background: green;
+	border: 2px solid black;
+	margin-bottom: 5px;
+	margin-top: 10px;
+
+
+}
+.box3{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	background: green;
+	border: 2px solid black;
+	margin-bottom: 5px;
+	margin-top: 10px;
+
+
+}
+.box4{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	background: yellow;
+	border: 2px solid black;
+	margin-bottom: 5px;
+	margin-top: 10px;
+
+
+}
+.lvl{
+	margin-left: 400px;
+}

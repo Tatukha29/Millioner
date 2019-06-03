@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+	<div class="question">
+		
+	</div>
+	<div class="flex">
+		<div class="answer">
+		</div>
+		<div class="answer">
+		</div>
+	</div>
+	<div class="flex">
+		<div class="answer">
+		</div>
+		<div class="answer">	
+		</div>
+	</div>
+	<script type="text/javascript">
+		var questions = ["В каком году был основан Киев?", "Какой материк пересекается всеми меридианами?"]
+		var answers = [[481, 480, 880, 482],["Антарктида", "Африка", "Австралия", "Евразия"]]
+		var question = document.querySelector('.question')
+		var answer_div = document.querySelectorAll('.answer')
+		question.innerHTML = questions[0];
+	for(var i=0;i<answer_div.length;i++){
+			answer_div[i].innerHTML = answers[0][i];
+		answer_div[i].onclick=function(){
+			if(this.innerHTML==482){
+					alert('Правильно')
+				question.innerHTML = questions[1];
+				for(var j=0;j<answer_div.length;j++){
+					answer_div[j].innerHTML = answers[1][j];
+					answer_div[j].onclick=function(){
+						if(this.innerHTML=="Антарктида"){
+						alert('Правильно')
+							}
+						else{
+						alert("Неправильно")
+						}
+					}
+				}
+			}else{
+					alert('Неправильно')
+				 }
+		}
+	}
+	
+	</script>
+</body>
+</html>
